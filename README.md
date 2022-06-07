@@ -1,6 +1,6 @@
 ### Hi there, my name is Diego Juarez, full stack developer and curious cat 👋
 
-I have plenty of experience repairing computers and Windows/Mac programs. Recently I have made de transition towards software development and am looking
+I have plenty of experience repairing computers and Windows/Mac programs. Recently I have made the transition towards software development and am looking
 forward to a career in the developing blockchain space. 
 
 
